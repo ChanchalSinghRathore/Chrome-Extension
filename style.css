@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 300px;
+    margin: 0;
+    padding: 20px;
+  
+  }
+.btns{
+    display: flex;
+    gap: 1rem;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    
+
+  }
+  
+h3 {
+    font-size: 20px;
+    text-align: center;
+  }
+
+#organize-btn{
+    color: green;
+    border: none;
+    border-radius: 3rem;
+    font-size: 14px;
+    padding: 10px;
+    
+  }
+
+#focus-btn{
+  color: red;
+  border: none;
+  border-radius: 3rem;
+  font-size: 14px;
+  padding: 10px
+}
+  
